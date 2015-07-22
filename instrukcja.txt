@@ -1,0 +1,3 @@
+W pliku source.lst są po kolei linki z RSS
+Jażdy link jest pobrany, wylistowane obiekty i znalezione nowe.
+Nowe są wysłane mailem (albo inną formą powiadomienia)
